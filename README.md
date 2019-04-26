@@ -1,7 +1,8 @@
 <snippet>
-  <content><![CDATA[
+  <content>
+<![CDATA[
 
-# Data Modeling with Postgres
+## Data Modeling with Postgres
 
 In this project, I apply data modeling with Postgres and build an ETL pipeline using Python, also defined a fact table and dimension for a star schema. Also i write an ETL pipeline that transfers data from files in two local directories into these tables in Postgres using Python and SQL.
 
