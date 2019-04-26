@@ -1,7 +1,3 @@
-<snippet>
-  <content>
-<![CDATA[
-
 ## Data Modeling with Postgres
 
 In this project, I apply data modeling with Postgres and build an ETL pipeline using Python, also defined a fact table and dimension for a star schema. Also i write an ETL pipeline that transfers data from files in two local directories into these tables in Postgres using Python and SQL.
@@ -9,7 +5,7 @@ In this project, I apply data modeling with Postgres and build an ETL pipeline u
 # BD Model
 (![star_model_project](https://user-images.githubusercontent.com/35740728/56818375-84047f80-6815-11e9-90bb-2548ab334b96.png))
 
-##Prerequisites
+## Prerequisites
 
 If you want to run the project locally, you will need to install the following:
 
@@ -41,9 +37,4 @@ Local Workspace
 ## Credits
 
 Rodrigo Asenjo.
-
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
-
 
