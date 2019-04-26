@@ -26,6 +26,7 @@ Tools:
 - Postgresql 9.2 or higher
 - Jupyter Notebook
 
+
 Create BD in postgresql
 - dbname=sparkifydb user=student password=student
 
