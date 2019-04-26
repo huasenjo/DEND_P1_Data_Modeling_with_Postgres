@@ -35,13 +35,13 @@ For this case, it is not necessary to install an environment as it is done in th
 
 ## Usage
 
-# UDACITY Workspace
+  UDACITY Workspace
 
 - Run the file create_tables.py, open test.ipynb and run '%run -i create_tables.py', 
 - Run the file etl.py.
 - Open the file test.ipynb and execute the tests to validate the results.
 
-# Local Workspace
+  Local Workspace
 
 - Open the console and go to the root folder of the project and run the python command 'python create_tables.py'
 - Run the python command 'python etl.py'
